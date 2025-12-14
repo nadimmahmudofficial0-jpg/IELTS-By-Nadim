@@ -1,0 +1,7 @@
+{
+  "name": "IELTS By Nadim",
+  "description": "A personal IELTS band score booster application featuring AI-powered writing analysis, vocabulary flashcards, and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
